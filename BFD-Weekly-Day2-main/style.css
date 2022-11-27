@@ -1,0 +1,58 @@
+body{
+    background-color: #2F302F
+}
+
+.ss {
+    border-radius: 20px;
+}
+
+#after {
+    color: rgb(243, 243, 247);
+    font-family: sans-serif;
+}
+
+.by {
+    color: rgb(247, 4, 4);
+    font-weight: 900px;
+    font-family:  Verdana, Arial, Helvetica, sans-serif;
+    font: 100;
+    
+}
+
+.the{
+    font-family: sans-serif;
+    text-align: justify;
+    color: white;
+    font-size: 15px;
+    width: 500px;
+
+}
+
+.link{
+    font-family: sans-serif;
+    background-color: #fcfbfa;
+    color: rgb(248, 6, 6);
+    padding: 14px 25px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    font-weight: 1000;
+    margin: 20px;
+}
+
+.ot {
+    font-family: sans-serif;
+    color: white;
+}
+
+.st {
+    font-family: sans-serif;
+    color: white;
+}
+
+.co {
+    font-family: sans-serif;
+    color: red;
+    font-weight: 1000;
+}
